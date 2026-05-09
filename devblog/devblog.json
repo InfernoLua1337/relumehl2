@@ -1,5 +1,23 @@
 {
-    "picture" : "ДНЕВНИК РАЗРАБОТЧИКА",
-    "ver": "1",
-    "link": "https://discord.gg/xpWnndbqHD"
+    "[1]": {
+        "picture": "https://media.discordapp.net/attachments/1421895260661092463/1502750086692864061/f7544c46102bd77ab05222cb26c566b1.png?ex=6a00d894&is=69ff8714&hm=210f8fb25ae3a5bf8f1e3b62865ea36162c38e189bff0d402a0cdb2e26b66279&=&format=webp&quality=lossless&width=285&height=350",
+        "ver": "1",
+        "link": "https://discord.gg/xpWnndbqHD"
+    },
+    "[2]": {
+        "picture": "https://media.discordapp.net/attachments/1421895260661092463/1502750180657594518/7b9bd0d00c134d28aba03d956daa89f4.png?ex=6a00d8aa&is=69ff872a&hm=3baeec6c7383a6197014b3ea1135a1646b4bc72eb41ef505ef49757a2fbf3fa2&=&format=webp&quality=lossless&width=728&height=959",
+        "ver": "2",
+        "link": "https://discord.gg/xpWnndbqHD"
+    },
+    "[3]": {
+        "picture": "https://media.discordapp.net/attachments/1421895260661092463/1502750328083447818/0fdad1ef6e1fd8a7f48e8d8bd32e9947.png?ex=6a00d8cd&is=69ff874d&hm=50edb0f17d32aa8e80e7c5f146c7754e6cd55dddfc7ef373054b044fd5bb2a7f&=&format=webp&quality=lossless",
+        "ver": "3",
+        "link": "https://discord.gg/xpWnndbqHD"
+    },
+    "[4]": {
+        "picture": "https://media.discordapp.net/attachments/1421895260661092463/1502750705184673792/b74f338e97b21257047420dcbdeb0f26.png?ex=6a00d927&is=69ff87a7&hm=85ce2c6d199f2bb78f97f9c773ce54d8bd10568c2cf6d7077e73da70c5751eeb&=&format=webp&quality=lossless",
+        "ver": "4",
+        "link": "https://discord.gg/xpWnndbqHD"
+    }
+
 }
